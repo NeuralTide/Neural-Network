@@ -1,4 +1,4 @@
-# Place your EWU ID and Name here. | ID: 00953041 - Andrew Tucker
+# Place your EWU ID and Name here. | Andrew Tucker
 
 ### Delete every `pass` statement below and add in your own code. 
 # Implementation of the forwardfeed neural network using stachastic gradient descent via backpropagation
